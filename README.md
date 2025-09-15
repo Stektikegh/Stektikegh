@@ -11,13 +11,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and exploring the intersection of technology and creativity. From web development to AI projects and game development, I enjoy tackling diverse challenges and bringing ideas to life.
+I'm a passionate developer who likes to explore the intersection of technology and creativity. From web development to AI projects and game development, I enjoy solving diverse challenges and bringing ideas to life.
 
-- 🔭 Currently working on various full-stack applications and AI projects
-- 🌱 Always learning new technologies and frameworks
-- 🎮 Game development enthusiast with experience in GDScript
-- 🤖 Exploring machine learning and AI applications
-- 💡 Love turning coffee into code ☕
+- 🌱 Always learning new technologies
+- 🎮 Game development enthusiast
+-  Vim guy
 
 ## 🛠️ Tech Stack
 
@@ -27,9 +25,9 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### Frameworks & Tools
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -56,11 +54,6 @@ My personal portfolio website showcasing projects and skills.
 
 </div>
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🎯 Current Focus
 
 - 🔧 Building web apps with Next.js
@@ -72,5 +65,6 @@ My personal portfolio website showcasing projects and skills.
   **"Code is poetry written in logic"** ✨
   
   ![Profile Views](https://komarev.com/ghpv/?username=Stektikegh&color=blueviolet&style=flat)
+  ![Github Contributions](./svg-image-7.svg)
   
 </div>
