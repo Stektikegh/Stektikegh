@@ -37,7 +37,7 @@ I'm a passionate developer who likes to explore the intersection of technology a
 
 </div>
 
-### 💼 [Portfolio](https://github.com/Stektikegh/Portfolio)
+## ### 💼 [Portfolio](https://github.com/Stektikegh/Portfolio)
 My personal portfolio website showcasing projects and skills.
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Features:** Project showcase, responsive design, interactive elements
