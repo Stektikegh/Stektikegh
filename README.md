@@ -15,7 +15,7 @@ I'm a passionate developer who likes to explore the intersection of technology a
 
 - 🌱 Always learning new technologies
 - 🎮 Game development enthusiast
--  Vim guy
+- ![](https://cdn.iconscout.com/icon/free/png-512/free-vim-icon-svg-download-png-2945210.png?f=webp&w=12) Vim guy
 
 ## 🛠️ Tech Stack
 
@@ -64,7 +64,6 @@ My personal portfolio website showcasing projects and skills.
   
   **"Code is poetry written in logic"** ✨
   
-  ![Profile Views](https://komarev.com/ghpv/?username=Stektikegh&color=blueviolet&style=flat)
   ![Github Contributions](./svg-image-7.svg)
   
 </div>
