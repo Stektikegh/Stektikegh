@@ -15,7 +15,7 @@ I'm a passionate developer who likes to explore the intersection of technology a
 
 - 🌱 Always learning new technologies
 - 🎮 Game development enthusiast
-- ![](https://cdn.iconscout.com/icon/free/png-512/free-vim-icon-svg-download-png-2945210.png?f=webp&w=12) Vim guy
+- ![](https://cdn.iconscout.com/icon/free/png-512/free-vim-icon-svg-download-png-2945210.png?f=webp&w=16) Vim guy
 
 ## 🛠️ Tech Stack
 
