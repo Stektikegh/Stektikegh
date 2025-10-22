@@ -2,7 +2,7 @@
 ## 🔥 Hot Takes
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1d4c27&center=true&vCenter=true&width=435&lines=Linux+Is+The+Best+OS;Freedom;NeoVim+Is+The+Best+Text+Editor;Rust+Is+The+Best+Language;X11+Is+Crap;College+Teaches+Real+CS;Humanity+Must+Fight+AI+Slop;LinkedIn+Is+For+Corporate+Slaves;Open+Source+Is+My+Only+Source;Downloading+Cracks+Is+Haram)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=286836&color=1d4c27&center=true&vCenter=true&width=435&lines=Linux+Is+The+Best+OS;Freedom;NeoVim+Is+The+Best+Text+Editor;Rust+Is+The+Best+Language;X11+Is+Crap;College+Teaches+Real+CS;Humanity+Must+Fight+AI+Slop;LinkedIn+Is+For+Corporate+Slaves;Open+Source+Is+My+Only+Source;Downloading+Cracks+Is+Haram)
 </div>
 
 ## 🚀 About Me
@@ -11,7 +11,7 @@ I'm a a developer who likes to explore technology. i do web development and some
 
 - 🌱 Always learning.
 - 🎮 Loves to play minecraft.
-- ![](https://cdn.iconscout.com/icon/free/png-512/free-vim-icon-svg-download-png-2945210.png?f=webp&w=16) Vim guy.
+- ![](https://cdn.iconscout.com/icon/free/png-512/free-vim-icon-svg-download-png-2945210.png?f=webp&w=15) Vim guy.
 
 
 ## 💼 [Portfolio](https://github.com/Stektikegh/Portfolio)
