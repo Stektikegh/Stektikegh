@@ -2,7 +2,7 @@
 ## 🔥 Hot Takes
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=286836&color=49414&center=true&vCenter=true&width=435&lines=Linux+Is+The+Best+OS;Freedom;NeoVim+Is+The+Best+Text+Editor;Rust+Is+The+Best+Language;X11+Is+Crap;College+Teaches+Real+CS;Humanity+Must+Fight+AI+Slop;LinkedIn+Is+For+Corporate+Slaves;Open+Source+Is+My+Only+Source;Downloading+Cracks+Is+Haram)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=92F751&width=435&lines=Linux+Is+The+Best+OS;Freedom;NeoVim+Is+The+Best+Text+Editor;Rust+Is+The+Best+Language;X11+Is+Crap;College+Teaches+Real+CS;Humanity+Must+Fight+AI+Slop;LinkedIn+Is+For+Corporate+Slaves;Open+Source+Is+My+Only+Source;Downloading+Cracks+Is+Haram" alt="Typing SVG" />
 
 </div>
 
